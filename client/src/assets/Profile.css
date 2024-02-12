@@ -1,0 +1,148 @@
+
+.profile-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f4f4f4; /* A light background */
+}
+
+.profile-card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 100%;
+    max-width: 500px; /* Adjust based on your design preference */
+    margin: 20px;
+}
+
+.profile-header {
+    border-bottom: 2px solid #ddd; /* A subtle line to separate the header */
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.profile-header h3 {
+    color: #333; /* Dark color for elegance */
+    font-family: 'Times New Roman', serif; /* Example of a serif font */
+}
+
+.profile-details {
+    font-family: 'Arial', sans-serif; /* Example of a sans-serif font */
+    color: #555; /* Slightly lighter text for the details */
+}
+
+.profile-details strong {
+    color: #222; /* Darker color for emphasis */
+}
+
+/* Profile.css additional styles */
+
+.profile-image-section {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.profile-image {
+    border-radius: 50%; /* Circular image */
+    width: 150px; /* Adjust size as needed */
+    height: 150px;
+    border: 3px solid #ddd; /* Subtle border */
+}
+
+.profile-bio {
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+.profile-contact {
+    margin-bottom: 20px;
+}
+
+.profile-activities {
+    margin-bottom: 20px;
+}
+
+.profile-activities h4 {
+    margin-bottom: 10px;
+}
+
+/* Style for list of activities */
+.profile-activities ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.profile-activities li {
+    margin-bottom: 5px;
+}
+
+/* Additional styling as needed */
+.profile-orders {
+    margin-bottom: 20px;
+}
+
+.profile-orders h4 {
+    margin-bottom: 10px;
+}
+
+.profile-orders ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.profile-orders li {
+    background-color: #f9f9f9; /* Light background for each order */
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.orders-button {
+    background-color: rgba(0, 0, 0, 0.7); /* Green background for the button */
+    color: white;
+    padding: 0px 10px;
+    cursor: pointer;
+    font-size: large;
+    border-radius: 25px;
+
+}
+
+.orders-dropdown {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.orders-dropdown ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.orders-dropdown li {
+    padding: 5px;
+    border-bottom: 1px solid #eee;
+}
+
+.orders-dropdown li:last-child {
+    border-bottom: none;
+}
+
+.continueShopping {
+    background-color: rgba(18, 99, 45, 0.7); /* Green background for the button */
+    color: white;
+    padding: 5px 15px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border-radius: 40px;
+    margin-top: 15%;
+    text-align: center;
+}
+

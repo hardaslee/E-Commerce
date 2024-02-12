@@ -1,0 +1,59 @@
+{  
+    "main" : {
+    "hats" : "Hats",
+    "watches" : "Watches",
+    "glasses" : "Glasses",
+    "header" : "DEFINE YOUR ELEGANCE",
+    "shopToday" : "Shop New Arrivals Today",
+    "shop" : "Shop",
+    "shopBtn" : "Shop", 
+    "dealsBtn" : "Deals" , 
+    "videoMsg" : "Your browser does not support the video tag.",
+    "card" : "Add to Cart"
+    },
+
+    "login": {
+    "userName" : "Username" , 
+    "password" : "Password",
+    "login" : "Login",
+    "rememberMe" : "Remember Me",
+    "forgotpassword" : "Forgot password?",
+    "notMember" : "Not a member?",
+    "member" : "Already a Member?",
+    "register" : "Register", 
+    "or" : "or sign up with:",
+    "join" : "Join Us", 
+    "form" : "Registration Form",
+    "first" : "First Name", 
+    "last" : "Last Name",
+    "confirm" : "Confirm Email", 
+    "terms" : "I accept the Terms of Use & Privacy Policy.",
+    "now" : "Register Now"
+    },
+
+    "filter" : {
+    "trending" : "Trending This Week",
+    "exclusive" : "Exclusive Deals",
+    "discover" : "Discover Our Watches",
+    "filter" :  "Hide Filters",
+    "gender" : "Gender",
+    "features": "Features",
+    "price" : "Price"
+    },
+
+    "footer" : {
+    "doc" : "API Documentation",
+    "info" : "GET INFO",
+    "status" : "Order Status",
+    "shipping" : "Shipping and Delivery",
+    "returns" : "Returns",
+    "payments" : "Payment Options",
+    "contact" : "Contact Us",
+    "about" : "About Us",
+    "news" : "News",
+    "careers" : "Careers",
+    "rights" : "All rights reserved", 
+    "privacy" : "Privacy & Cookie Policy",
+    "cookie" : "Cookie Settings"
+    }
+}

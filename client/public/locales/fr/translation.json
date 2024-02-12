@@ -1,0 +1,59 @@
+{  
+    "main" : {
+    "hats" : "Chapeaux",
+    "watches" : "Montres",
+    "glasses" : "Lunettes",
+    "header" : "DÉFILEZ VOTRE ÉLÉGANCE",
+    "shopToday" : "ACHETEZ LES NOUVEAUTÉS DÈS AUJOURD'HUI", 
+    "shop" : " MAGAZINEZ",
+    "shopBtn" : "Magazinez", 
+    "dealsBtn" : "Promos",
+    "videoMsg" : "Votre navigateur ne prend pas en charge la balise vidéo.",
+    "card" : "Ajouter au Panier"
+    },
+
+    "login": { 
+    "userName" : "Nom d'utilisateur" , 
+    "password" : "Mot de passe",
+    "login" : "Se Connecter", 
+    "rememberMe" :"Souviens De Moi",
+    "forgotpassword" : "Mot de passe oublié? ",
+    "notMember" : "N'êtes pas membre?",
+    "member" : "Déjà Membre?",
+    "register" : "S'inscrire", 
+    "or" : "ou se connecté avec:",
+    "join" : "Rejoignez-nous", 
+    "form" : "Formulaire d'Inscription", 
+    "first": "Prénom",
+    "last": "Nom",
+    "confirm": "Confirmer Email",
+    "terms" : "J'accepte les Conditions d'Utilisation et la Politique de Confidentialité.",
+    "now" : "S'inscrire maintenant"
+    },
+
+    "filter" : {
+    "trending" : "Tendance Cette Semaine",
+    "exclusive" : "Offres Exclusives",
+    "discover" : "Découvrez Nos Montres",
+    "filter" :  "Cacher Les Filtres",
+    "gender" : "Sexe",
+    "features": "Caractéristiques",
+    "price" : "Prix"
+    },
+
+    "footer": {
+        "doc": "Documentation de l'API",
+        "info": "OBTENIR DES INFORMATIONS",
+        "status": "État de la commande",
+        "shipping": "Expédition et livraison",
+        "returns": "Retours",
+        "payments": "Options de paiements",
+        "contact": "Nous contacter",
+        "about": "À PROPOS DE NOUS",
+        "news": "Actualités",
+        "careers": "Carrières",
+        "rights": "Tous droits réservés.",
+        "privacy": "Politique de confidentialité et de cookies",
+        "cookie": "Paramètres de cookies"
+      }
+}
